@@ -1,6 +1,6 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. PGR1.
-      *este programa lê o arquivo de alunos
+      *este programa lÃŠ o arquivo de alunos
       *e gera o arquivo de reprovados e o relatorio de aprovados
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
